@@ -1,0 +1,18 @@
+.artist {
+    padding-bottom: 20px;
+}
+
+h1,p {
+    margin: 0;
+}
+
+.header {
+    line-height: 0.6;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.artist p {
+    color: grey;
+    font-style: italic;
+}

@@ -1,0 +1,14 @@
+.album {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.album__name {
+    color: rgb(84, 83, 83);
+    font-weight: bold;
+}
+
+.album__year {
+    color: rgb(84, 83, 83);
+}

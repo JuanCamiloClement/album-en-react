@@ -1,0 +1,23 @@
+.container {
+    width: 420px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgb(189, 189, 189);
+    display: flex;
+    align-items: center;
+}
+
+.section-1 {
+    width: 189px;
+    height: 198px;
+}
+
+.section-2 {
+    width: 273px;
+    padding: 10px;
+}
+
+.genre_like {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

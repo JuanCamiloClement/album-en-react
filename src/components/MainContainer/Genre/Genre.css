@@ -1,0 +1,10 @@
+.genre {
+    display: inline-block;
+    border-radius: 15px;
+    background-color: rgb(255, 170, 184);
+    padding: 2px 10px;
+}
+
+.genre__dance {
+    font-weight: bold;
+}

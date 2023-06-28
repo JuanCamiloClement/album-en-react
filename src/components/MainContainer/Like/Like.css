@@ -1,0 +1,14 @@
+.fa-heart {
+    font-size: 24px;
+}
+
+.likeButton {
+    color: rgb(154, 153, 153);
+    margin-bottom: 0px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+
+.likeButton--full {
+    color: rgb(10, 172, 10);
+}
