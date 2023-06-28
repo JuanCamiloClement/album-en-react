@@ -1,6 +1,6 @@
 import './Artist.css';
 
-function Artist(props) {
+function Artist( props ) {
 
 const { name, artist } = props;
 
