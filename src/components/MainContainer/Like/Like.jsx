@@ -3,13 +3,13 @@ import { useState } from 'react';
 
 function Like(props) {
 
-const [likeButton,setLikeButton] = useState(false);
+const { like } = props;
+
+const [likeButton,setLikeButton] = useState(like);
 
 const handleClick = () => {
   setLikeButton(!likeButton);
   }
-
-const { like } = props;
 
   return (
     <>

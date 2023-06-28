@@ -1,5 +1,4 @@
 import './App.css';
-import './assets/rose.png';
 import MainContainer from './components/MainContainer/MainContainer.jsx'
 
 function App() {
