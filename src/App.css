@@ -3,3 +3,14 @@
     margin: 0 auto;
     padding: 2rem;
   }
+
+.container {
+  margin: 20px;
+}
+
+.all {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
